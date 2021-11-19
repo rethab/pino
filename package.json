@@ -23,16 +23,16 @@
   "license": "MIT",
   "repository": "github:probot/pino",
   "devDependencies": {
-    "pino": "^6.13.3",
-    "prettier": "^2.1.1",
-    "tap": "^15.0.0"
+    "pino": "^7.3.0",
+    "prettier": "^2.4.1",
+    "tap": "^15.1.2"
   },
   "dependencies": {
-    "@sentry/node": "^6.0.0",
-    "pino-pretty": "^6.0.0",
+    "@sentry/node": "^6.15.0",
+    "pino-pretty": "^7.2.0",
     "pump": "^3.0.0",
     "readable-stream": "^3.6.0",
-    "split2": "^4.0.0"
+    "split2": "^4.1.0"
   },
   "release": {
     "branches": [
