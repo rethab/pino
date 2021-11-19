@@ -23,7 +23,7 @@
   "license": "MIT",
   "repository": "github:probot/pino",
   "devDependencies": {
-    "pino": "^6.6.0",
+    "pino": "^6.13.3",
     "prettier": "^2.1.1",
     "tap": "^15.0.0"
   },
